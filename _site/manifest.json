@@ -1,0 +1,708 @@
+{
+  "source_base_path": "C:/Users/Prapti/source/repos/ASE-Classroom/ase-demo-assignment-Prapti-Acharya",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.AppStoredProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.AppStoredProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationBoolean.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationBoolean.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationCast.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationCompoundCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationCompoundCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationConditionalCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationConditionalCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationElse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationElse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationEnd.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationFor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationFor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationIf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationIf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationMethod.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationPeek.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationPeek.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationPoke.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationPoke.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationWhile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.ApplicationWhile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Clear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Clear.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.DrawCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.DrawCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.DrawRectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.DrawRectangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.DrawToPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.DrawToPosition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Fill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Fill.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.GlobalConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.GlobalConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MoveToPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MoveToPosition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyParser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyPenSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.MyPenSize.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Reset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Reset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.SetPenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.SetPenColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Triangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.Triangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.WriteTextToCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.WriteTextToCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Prapti_Acharya_77356684.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.ASE_Assignment_Test.MyCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.ASE_Assignment_Test.MyCanvasTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.ASE_Assignment_Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.ASE_Assignment_Test.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.CircleTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.CircleTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.ClearTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.ClearTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.CommandFactoryTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.CommandFactoryTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.CommandTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.CommandTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.DrawRectangleTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.DrawRectangleTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.DrawToPositionTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.DrawToPositionTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.FillTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.FillTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.GlobalConfigTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.GlobalConfigTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.MoveToPositionTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.MoveToPositionTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.MyCommandFactoryTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.MyCommandFactoryTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.MyParserTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.MyParserTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.MyTriangleTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.MyTriangleTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.PenSizeUnitTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.PenSizeUnitTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.ResetTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.ResetTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.SetPenColourTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.SetPenColourTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.WriteTextToCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.WriteTextToCanvasTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Calculator.Calculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Calculator.Calculator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Calculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Calculator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ConsoleInputApp.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ConsoleInputApp.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ConsoleInputApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ConsoleInputApp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestProject1.Test1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestProject1.Test1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestProject1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestProject1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnitTest.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnitTest.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnitTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnitTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

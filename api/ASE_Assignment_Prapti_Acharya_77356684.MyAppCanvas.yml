@@ -1,0 +1,46 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  commentId: N:ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  id: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  children:
+  - ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  nameWithType: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  fullName: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  type: Namespace
+  assemblies:
+  - ASE_Assignment_Prapti-Acharya_77356684
+references:
+- uid: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas
+  commentId: T:ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas
+  parent: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  href: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas.html
+  name: MyCanvas
+  nameWithType: MyCanvas
+  fullName: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.MyCanvas
+- uid: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  commentId: N:ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  href: ASE_Assignment_Prapti_Acharya_77356684.html
+  name: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  nameWithType: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  fullName: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+  spec.csharp:
+  - uid: ASE_Assignment_Prapti_Acharya_77356684
+    name: ASE_Assignment_Prapti_Acharya_77356684
+    href: ASE_Assignment_Prapti_Acharya_77356684.html
+  - name: .
+  - uid: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+    name: MyAppCanvas
+    href: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.html
+  spec.vb:
+  - uid: ASE_Assignment_Prapti_Acharya_77356684
+    name: ASE_Assignment_Prapti_Acharya_77356684
+    href: ASE_Assignment_Prapti_Acharya_77356684.html
+  - name: .
+  - uid: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas
+    name: MyAppCanvas
+    href: ASE_Assignment_Prapti_Acharya_77356684.MyAppCanvas.html
